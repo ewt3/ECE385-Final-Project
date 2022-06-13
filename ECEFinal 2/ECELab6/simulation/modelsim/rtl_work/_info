@@ -1,0 +1,83 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/18.1/ECELab6/simulation/modelsim
+vHexDriver
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1648004357
+!i10b 1
+!s100 hKBo4zbCRmY3[Ac9JZP;<0
+IS``InF:UN>C_YliPT:`KO3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 HexDriver_sv_unit
+S1
+R0
+Z4 w1648001471
+8C:/intelFPGA_lite/18.1/ECELab6/SVs/HexDriver.sv
+FC:/intelFPGA_lite/18.1/ECELab6/SVs/HexDriver.sv
+L0 1
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1648004357.000000
+!s107 C:/intelFPGA_lite/18.1/ECELab6/SVs/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/intelFPGA_lite/18.1/ECELab6/SVs|C:/intelFPGA_lite/18.1/ECELab6/SVs/HexDriver.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work +incdir+C:/intelFPGA_lite/18.1/ECELab6/SVs
+Z9 tCvgOpt 0
+n@hex@driver
+vlab62
+R1
+R2
+!i10b 1
+!s100 CF_R@8m=Tk4gCAbmzCF0f0
+IjR0XRk5SA@Xf>mV^_EBQ?1
+R3
+!s105 lab62_sv_unit
+S1
+R0
+R4
+8C:/intelFPGA_lite/18.1/ECELab6/SVs/lab62.sv
+FC:/intelFPGA_lite/18.1/ECELab6/SVs/lab62.sv
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECELab6/SVs/lab62.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/intelFPGA_lite/18.1/ECELab6/SVs|C:/intelFPGA_lite/18.1/ECELab6/SVs/lab62.sv|
+!i113 1
+R7
+R8
+R9
+vlab62_soc
+R2
+!i10b 1
+!s100 ;k@:@gFEQ0SG;U^L_b6R=3
+Ik3@JzTVVh`HhTGf?[I`8=1
+R3
+R0
+w1648003685
+8C:/intelFPGA_lite/18.1/ECELab6/lab62_soc/lab62_soc_bb.v
+FC:/intelFPGA_lite/18.1/ECELab6/lab62_soc/lab62_soc_bb.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECELab6/lab62_soc/lab62_soc_bb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/18.1/ECELab6/lab62_soc|C:/intelFPGA_lite/18.1/ECELab6/lab62_soc/lab62_soc_bb.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/intelFPGA_lite/18.1/ECELab6/lab62_soc
+R9

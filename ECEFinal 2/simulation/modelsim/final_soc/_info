@@ -1,0 +1,1200 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/18.1/ECEFinal/simulation/modelsim
+valtera_avalon_sc_fifo
+Z1 !s110 1651703168
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+I3;27UamHNFWYL?SRnhUB<0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1651512425
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1651703168.000000
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z7 o-vlog01compat -work final_soc
+Z8 !s92 -vlog01compat -work final_soc +incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules
+Z9 tCvgOpt 0
+valtera_reset_controller
+Z10 !s110 1651703167
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+Ic[1E>gzbXzX4bCSePehz:1
+R2
+R0
+Z11 w1651512423
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_reset_controller.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+Z12 !s108 1651703167.000000
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R7
+R8
+R9
+valtera_reset_synchronizer
+R10
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+I3Pn6nz9EIM0^czUTWT2:j3
+R2
+R0
+R11
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_reset_synchronizer.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_reset_synchronizer.v
+L0 24
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc
+R10
+!i10b 1
+!s100 DD?I^f<D]X79@XW3A;V;K1
+IEgbj=1;KaYjLajKW0gIFz2
+R2
+R0
+w1651512404
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/final_soc.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/final_soc.v
+L0 6
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/final_soc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/final_soc.v|
+!i113 1
+R7
+!s92 -vlog01compat -work final_soc +incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis
+R9
+vfinal_soc_acc
+Z13 !s110 1651703169
+!i10b 1
+!s100 V@9:G0AaN8LaFB^MWf>Ma0
+I<JFGdXJ@eM:cgD`@a49kB2
+R2
+R0
+Z14 w1651512405
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_acc.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_acc.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_acc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_acc.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_hex_digits_pio
+R1
+!i10b 1
+!s100 kN?CJzb1:?P`gBUKVMNob2
+I]kDJ<`L0QOE0BJ;e:gim42
+R2
+R0
+R14
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_hex_digits_pio.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_hex_digits_pio.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_hex_digits_pio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_hex_digits_pio.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_jtag_uart_0
+R1
+!i10b 1
+!s100 8LTR;DdP[nUNhIF46=GCV3
+I4:7oD[8Aebb>_6im>Yj9Z0
+R2
+R0
+R14
+Z15 8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_jtag_uart_0.v
+Z16 FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_jtag_uart_0.v
+L0 331
+R5
+r1
+!s85 0
+31
+R6
+Z17 !s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_jtag_uart_0.v|
+Z18 !s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_jtag_uart_0.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_jtag_uart_0_scfifo_r
+R1
+!i10b 1
+!s100 eVD`6`mS0C6gXPNcYbMeF3
+IP6=4j9Vib9U2@QMa>j9C;0
+R2
+R0
+R14
+R15
+R16
+L0 243
+R5
+r1
+!s85 0
+31
+R6
+R17
+R18
+!i113 1
+R7
+R8
+R9
+vfinal_soc_jtag_uart_0_scfifo_w
+R1
+!i10b 1
+!s100 iM>Kl8L?OkRJNoI768ZFX1
+IDWBTFOKjfP>^[cz[3ME1o2
+R2
+R0
+R14
+R15
+R16
+L0 78
+R5
+r1
+!s85 0
+31
+R6
+R17
+R18
+!i113 1
+R7
+R8
+R9
+vfinal_soc_jtag_uart_0_sim_scfifo_r
+R1
+!i10b 1
+!s100 :5Y=4i1CSZab8G_z^:4_=0
+ImFBdBEMVbiczK[MF8?8m^3
+R2
+R0
+R14
+R15
+R16
+L0 164
+R5
+r1
+!s85 0
+31
+R6
+R17
+R18
+!i113 1
+R7
+R8
+R9
+vfinal_soc_jtag_uart_0_sim_scfifo_w
+R1
+!i10b 1
+!s100 GAKBjog@QDeZ5GDc2<=BM3
+I=e36o_Vm^@4]mCifiRzfW1
+R2
+R0
+R14
+R15
+R16
+R4
+R5
+r1
+!s85 0
+31
+R6
+R17
+R18
+!i113 1
+R7
+R8
+R9
+vfinal_soc_key
+R1
+!i10b 1
+!s100 3?27SU[5e5h3UlRN`L9zK3
+Id6;Mf5od8Z0J3dPI1@Fm51
+R2
+R0
+R14
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_key.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_key.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_key.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_key.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_keycode
+R1
+!i10b 1
+!s100 c31]Ta0UEofb24@h?^h:]0
+IN^]Df4;jd:?Y_g1KE=8be0
+R2
+R0
+R14
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_keycode.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_keycode.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_keycode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_keycode.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_leds_pio
+R1
+!i10b 1
+!s100 e14GYf1PU@0U6EFN4<OKe2
+I;i8[TKM34aiIGTQnT9Nj]1
+R2
+R0
+Z19 w1651512406
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_leds_pio.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_leds_pio.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_leds_pio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_leds_pio.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_mm_interconnect_0
+R10
+!i10b 1
+!s100 4`Yh7]Hi_:SVgT<K3efNA0
+I8EQ5A[WVS1CA=@]GgUSjO0
+R2
+R0
+R11
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_mm_interconnect_0_avalon_st_adapter
+R1
+!i10b 1
+!s100 ONUlJ0OR_>lUPP;lUd:c`1
+IW2OHcETPU>k<h<Za45^5A0
+R2
+R0
+w1651512426
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0_avalon_st_adapter.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_mm_interconnect_0_avalon_st_adapter_006
+R1
+!i10b 1
+!s100 4bQaIbeKNCTBB8F<PnP>63
+I`GM>QKk1l@KSNI[`QlQcU1
+R2
+R0
+w1651512427
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0_avalon_st_adapter_006.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0_avalon_st_adapter_006.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0_avalon_st_adapter_006.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_mm_interconnect_0_avalon_st_adapter_006.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0
+R1
+!i10b 1
+!s100 684IQ7DhA3cTGZnHjf:XC0
+I1`0SQ<m85HDS;ZON[bgNC0
+R2
+R0
+R19
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu
+R1
+!i10b 1
+!s100 `HnlCoU:=0E`A3ZFW@=Ta3
+I2ZSVn;Zh7P0==JQhMRFIm2
+R2
+R0
+R3
+Z20 8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu.v
+Z21 FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu.v
+L0 2834
+R5
+r1
+!s85 0
+31
+R6
+Z22 !s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu.v|
+Z23 !s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_debug_slave_sysclk
+R1
+!i10b 1
+!s100 =5YEklW3[]7=jGLfR6;XP3
+IZN8k?_952QSz14ERCYY0R2
+R2
+R0
+R3
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_debug_slave_tck
+R1
+!i10b 1
+!s100 zTfd^B@gH<W5;HoFz]<K70
+I;kmRY?hZhWN20lJaKDk@S0
+R2
+R0
+R3
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_tck.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_tck.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_debug_slave_wrapper
+R1
+!i10b 1
+!s100 DcDn4:[P5Ok8M2N[mNm0_0
+IOlVe`P[f0LgnRj:Hc8ok=0
+R2
+R0
+R3
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_avalon_reg
+R1
+!i10b 1
+!s100 W=ij3Fc^PE]<H6>Bi0RBj3
+IG5PSFh6a`i5NcA_djDWEJ0
+R2
+R0
+R3
+R20
+R21
+L0 2023
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci
+R1
+!i10b 1
+!s100 LkUigBXHdLmlKgXb@meK10
+IoC5_1UIFbPPe@jI2MB``l1
+R2
+R0
+R3
+R20
+R21
+L0 2362
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_break
+R1
+!i10b 1
+!s100 Kd5O::HUZYSIj2?3bKjO90
+Iaa@cQMoY?lU1MhLoT^j>E3
+R2
+R0
+R3
+R20
+R21
+L0 295
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_compute_input_tm_cnt
+R1
+!i10b 1
+!s100 6?1;9jSMfKgz^`@EX@fb[1
+IgfE>M0i^SZo>3C<=_PGJ41
+R2
+R0
+R3
+R20
+R21
+L0 1265
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_dbrk
+R1
+!i10b 1
+!s100 I1DdL[hXPAi@9I1nGgeT62
+I2_=J9>P`U7gYCPl_5?zKa2
+R2
+R0
+R3
+R20
+R21
+L0 795
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_debug
+R1
+!i10b 1
+!s100 Jk1<4E=OBi4JWogMTmaNZ0
+If[1G`2Q>M;LJ@X>JR5^Z@0
+R2
+R0
+R3
+R20
+R21
+L0 153
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_dtrace
+R1
+!i10b 1
+!s100 bQOQ?Ri@iKfVK_bBE67S<3
+I3UnHLccoOGM?Y7JT:`ZB;2
+R2
+R0
+R3
+R20
+R21
+L0 1183
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_fifo
+R1
+!i10b 1
+!s100 3ceM7JQE1ID02bN@P]6L22
+IC`gU[M8m1LHn2o8j1:nZ41
+R2
+R0
+R3
+R20
+R21
+L0 1427
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_fifo_cnt_inc
+R1
+!i10b 1
+!s100 dTI<2o?Q<^H6]3g@:;;BH3
+IzfM172_eQ0@m4;_KhUCMJ0
+R2
+R0
+R3
+R20
+R21
+L0 1380
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_fifo_wrptr_inc
+R1
+!i10b 1
+!s100 l1;>EAVO4bL[BmSC<fJ=T0
+I8H1`ae7?e;d22WchoSAUW0
+R2
+R0
+R3
+R20
+R21
+L0 1337
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_im
+R1
+!i10b 1
+!s100 G>G^^h<QFi8aJVLd5E`9b1
+IW3h5f^L8ViGbaJec`03Ng1
+R2
+R0
+R3
+R20
+R21
+L0 1936
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_itrace
+R1
+!i10b 1
+!s100 :W20jOi0ndW=zg[=3g9AH2
+Ig9Pmhd3I3gM2A5Xb7ZlY_2
+R2
+R0
+R3
+R20
+R21
+L0 982
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_pib
+R1
+!i10b 1
+!s100 >^EQX9A]@0cblO0m_K68C3
+IbB8l<ABX@;KS4HXZXnicn0
+R2
+R0
+R3
+R20
+R21
+L0 1913
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_td_mode
+R1
+!i10b 1
+!s100 _UibDG_6kJ3GIFXY>8<;52
+IH9YHhn5TI=lczB_=ER:Xg3
+R2
+R0
+R3
+R20
+R21
+L0 1115
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_oci_xbrk
+R1
+!i10b 1
+!s100 XL2_0Hn=]l5d7DfF6?=RD1
+IQkb1?RhE?ZNigWml8E72a1
+R2
+R0
+R3
+R20
+R21
+L0 588
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_ocimem
+R1
+!i10b 1
+!s100 loRb]fVP8J@2:eYddb^jT1
+Icba]>>ebEgm7Wf3YZ61gj0
+R2
+R0
+R3
+R20
+R21
+L0 2181
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_nios2_performance_monitors
+R1
+!i10b 1
+!s100 @aH<T669C2JGHM`HWX32R2
+IkUz>H0Y^_GfnifLj:_A:>3
+R2
+R0
+R3
+R20
+R21
+L0 2006
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_ociram_sp_ram_module
+R1
+!i10b 1
+!s100 2Z7Rm1G5?HX=611]o00Xk2
+IoRQ=_0NLTfoP<zb9;Z`mm2
+R2
+R0
+R3
+R20
+R21
+L0 2116
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_register_bank_a_module
+R1
+!i10b 1
+!s100 0n>NgSie0bYKU7LlGE6E^1
+I2gFl168PIk@I7`jUCQDKm0
+R2
+R0
+R3
+R20
+R21
+R4
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_register_bank_b_module
+R1
+!i10b 1
+!s100 _VAU7FlNO=[8DXa8hJIa90
+I9lAReY_FV0?`G3?z=M]7f2
+R2
+R0
+R3
+R20
+R21
+L0 87
+R5
+r1
+!s85 0
+31
+R6
+R22
+R23
+!i113 1
+R7
+R8
+R9
+vfinal_soc_nios2_gen2_0_cpu_test_bench
+R1
+!i10b 1
+!s100 ShJB^8a5R7_[oWdmfc`aC0
+ILYm_[=1<@?HQ@922@II9P2
+R2
+R0
+R3
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_test_bench.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_nios2_gen2_0_cpu_test_bench.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_onchip_memory2_0
+R1
+!i10b 1
+!s100 7eP`W3A@SfZidL_A7fHOE1
+IV7aRb7O>SmA`1W48On6__0
+R2
+R0
+R19
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_onchip_memory2_0.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_onchip_memory2_0.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_onchip_memory2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_onchip_memory2_0.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_SDRAM
+R13
+!i10b 1
+!s100 KLQRoQf@mL_5f[da3<V:X2
+Izh3Y6DP<mYl4HdIndb0lY3
+R2
+R0
+R14
+Z24 8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_SDRAM.v
+Z25 FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_SDRAM.v
+L0 159
+R5
+r1
+!s85 0
+31
+Z26 !s108 1651703169.000000
+Z27 !s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_SDRAM.v|
+Z28 !s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_SDRAM.v|
+!i113 1
+R7
+R8
+R9
+nfinal_soc_@s@d@r@a@m
+vfinal_soc_SDRAM_input_efifo_module
+R13
+!i10b 1
+!s100 AD=0cFWIL]SFGT6f?FBCC1
+IiMH8HT0@BgcPlkXS;HNk80
+R2
+R0
+R14
+R24
+R25
+R4
+R5
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 1
+R7
+R8
+R9
+nfinal_soc_@s@d@r@a@m_input_efifo_module
+vfinal_soc_sdram_pll
+R1
+!i10b 1
+!s100 1G6j`QF?Omf_d@[=VGXUC2
+I=SXZ2JQGOk6`Di_oA@9d62
+R2
+R0
+Z29 w1651512407
+Z30 8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_sdram_pll.v
+Z31 FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_sdram_pll.v
+L0 217
+R5
+r1
+!s85 0
+31
+R6
+Z32 !s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_sdram_pll.v|
+Z33 !s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_sdram_pll.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_sdram_pll_altpll_vg92
+R1
+!i10b 1
+!s100 o]:bOHfM2<4b_Gj?XgedL1
+IiB[2l6<?j`i5=9Y==EEdT3
+R2
+R0
+R29
+R30
+R31
+L0 130
+R5
+r1
+!s85 0
+31
+R6
+R32
+R33
+!i113 1
+R7
+R8
+R9
+vfinal_soc_sdram_pll_dffpipe_l2c
+R1
+!i10b 1
+!s100 8FNoCg8^`z2;F0NQdKJdL2
+IXV7b`4X`1TK2>Rdh86ZT`0
+R2
+R0
+R29
+R30
+R31
+L0 37
+R5
+r1
+!s85 0
+31
+R6
+R32
+R33
+!i113 1
+R7
+R8
+R9
+vfinal_soc_sdram_pll_stdsync_sv6
+R1
+!i10b 1
+!s100 DlGlHNYSnO`@_<LT<M>Mn2
+If1idS7ZUGV0V?3ckQokQO0
+R2
+R0
+R29
+R30
+R31
+L0 98
+R5
+r1
+!s85 0
+31
+R6
+R32
+R33
+!i113 1
+R7
+R8
+R9
+vfinal_soc_spi_0
+R1
+!i10b 1
+!s100 ]lT]VDV`H@QIOL7bO7SRh3
+IR2A?Qj<1Pz=ogcXIDMU0a2
+R2
+R0
+R29
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_spi_0.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_spi_0.v
+L0 41
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_spi_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_spi_0.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_sysid_qsys_0
+R1
+!i10b 1
+!s100 ?b06OAeLUJ2ogUZ=A>i9>3
+INNziHYB;3WOoHT8;`H3H03
+R2
+R0
+R29
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_sysid_qsys_0.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_sysid_qsys_0.v
+L0 34
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_sysid_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_sysid_qsys_0.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_timer_0
+R1
+!i10b 1
+!s100 nSTiQkL9^R>QENWZIhk]53
+I=O^AU3l13P7YRzYPK1[_C1
+R2
+R0
+Z34 w1651512408
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_timer_0.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_timer_0.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_timer_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_timer_0.v|
+!i113 1
+R7
+R8
+R9
+vfinal_soc_usb_rst
+R1
+!i10b 1
+!s100 mT;0lO<YUFGeoRTCnb;Wn0
+IOle6=?DCiD2e83e6^XdK42
+R2
+R0
+R34
+8C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_usb_rst.v
+FC:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_usb_rst.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_usb_rst.v|
+!s90 -reportprogress|300|-vlog01compat|-work|final_soc|+incdir+C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules|C:/intelFPGA_lite/18.1/ECEFinal/final_soc/synthesis/submodules/final_soc_usb_rst.v|
+!i113 1
+R7
+R8
+R9

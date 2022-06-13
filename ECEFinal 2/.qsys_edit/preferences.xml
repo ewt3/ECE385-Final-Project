@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="175" />
+   <irq preferredWidth="34" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/Basic Functions,Library/Interface Protocols,Library,Library/Interface Protocols/Audio &amp; Video,Library/Qsys Interconnect,Library/University Program/Audio &amp; Video,Library/University Program,Library/Processors and Peripherals/Peripherals,Library/Processors and Peripherals,Library/DSP,Project/ECE 385 Custom IPs,Library/Memory Interfaces and Controllers/Flash,Project,Library/Memory Interfaces and Controllers,Library/Tri-State Components" />
+ <window width="1294" height="1039" x="1273" y="0" />
+ <hdlexample language="VERILOG" />
+</preferences>
